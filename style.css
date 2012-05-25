@@ -2,3 +2,23 @@ body{
 background: #225;
 color: #fff;
 }
+
+h1{
+	font-family: "Permanent Marker", Arial, sans-serif;
+}
+
+h2{
+	font-family: Ovo, Arial, sans-serif;
+}
+
+#fb{
+	list-style-image: url(http://www.facebook.com/favicon.ico)
+}
+
+#blog{
+	list-style-image: url(http://www.gialloporpora.netsons.org/favicon.ico);
+}
+
+#tw{
+	list-style-image: url(https://twitter.com/favicon.ico);
+}
